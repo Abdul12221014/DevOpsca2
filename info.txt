@@ -1,0 +1,4 @@
+Name :Abdul
+Fathers Name : XYZ
+Rg no :12221014
+Specialization : Machine Learning
